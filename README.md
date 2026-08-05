@@ -113,10 +113,8 @@ Contains ETL execution summary.
 
 📷 Screenshots
 
-Add screenshots here:
-
 - SSIS Control Flow
-- SQL Tables
+- SSIS Data Flow
 - Input CSV
 - Output Files
 - SQL Server Results
