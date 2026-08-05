@@ -1,0 +1,5 @@
+EmployeeID,EmployeeName,Email,Department,Salary,JoiningDate,ErrorReason
+103,Amit,amitgmail.com,Finance,55000,20-09-2022,Invalid Email
+106,Sneha,sneha@gmail.com,Sales,-25000,18-03-2023,Negative Salary
+104,Not Available,neha@gmail.com,IT,47000,12-02-2024,Missing Employee Name
+105,Karan,karan@gmail.com,Unknown,60000,05-11-2021,Missing Department

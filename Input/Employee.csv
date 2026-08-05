@@ -1,0 +1,9 @@
+EmployeeID,EmployeeName,Email,Department,Salary,JoiningDate
+101,Rahul,rahul@gmail.com,IT,45000,10-01-2024
+102,Priya,priya@gmail.com,HR,50000,15-06-2023
+103,Amit,amitgmail.com,Finance,55000,20-09-2022
+104,,neha@gmail.com,IT,47000,12-02-2024
+105,Karan,karan@gmail.com,,60000,05-11-2021
+106,Sneha,sneha@gmail.com,Sales,-25000,18-03-2023
+101,Rahul,rahul@gmail.com,IT,45000,10-01-2024
+107,  Mohit  ,mohit@gmail.com,IT,52000,01-05-2024
